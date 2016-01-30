@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 You initialize git tracking, then you can get a status and start version control.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area keeps track of the commits and the history of the file. It provides version control capabilities.
