@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+You initialize git tracking, then you can get a status and start version control.
