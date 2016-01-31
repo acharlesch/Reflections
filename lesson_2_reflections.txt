@@ -16,3 +16,6 @@ It is easier to understand how branch works and what can be lost if not creating
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The merge combines the changes between branches taking information from their common parent.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Git merges much faster, and provides information when there are conflicts. Manually while slower you may learn more about changes introduced.
