@@ -13,3 +13,6 @@ When you want to experiment new features branches are a goot feature.
 
 How do the diagrams help you visualize the branch structure?
 It is easier to understand how branch works and what can be lost if not creating a new branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The merge combines the changes between branches taking information from their common parent.
