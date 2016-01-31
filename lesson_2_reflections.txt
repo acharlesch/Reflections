@@ -3,3 +3,7 @@ You initialize git tracking, then you can get a status and start version control
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 The staging area keeps track of the commits and the history of the file. It provides version control capabilities.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can compare your staging versus the most recent commit to see what has changed by using git diff --staged or compare staging
+versus working directory with a git diff command.
