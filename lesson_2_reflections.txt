@@ -7,3 +7,6 @@ The staging area keeps track of the commits and the history of the file. It prov
 How can you use the staging area to make sure you have one commit per logical change?
 You can compare your staging versus the most recent commit to see what has changed by using git diff --staged or compare staging
 versus working directory with a git diff command.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When you want to experiment new features branches are a goot feature.
